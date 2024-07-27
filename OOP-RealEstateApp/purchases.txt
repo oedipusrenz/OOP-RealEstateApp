@@ -1,0 +1,2 @@
+B2L20,EmptyLot,1300000.0,TestBuyer,09173272223,Buy,CreditCard
+B5L19,OneStory,2800000.0,TestRenter,09173272223,Rent,BankTransfer
